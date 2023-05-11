@@ -12,8 +12,14 @@ Python, Scrapy
 
 ## Как запустить:
 1. Склонируйте репозитоорий
-2. Создайте и активируйте виртуальное окружение:
-3. Обновите pip и установите зависимости:
+git@github.com:webbzet/scrapy_parser_pep.git
+3. Создайте и активируйте виртуальное окружение:
+python -m venv venv
+source venv/Scripts/activate
+4. Обновите pip и установите зависимости: 
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
 4. Запустите паука 'pep' в командной строке: <b>scrapy crawl pep</b>
 
 
