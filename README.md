@@ -20,7 +20,7 @@ source venv/Scripts/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
-4. Запустите паука 'pep' в командной строке: <b>scrapy crawl pep</b>
+4. Запустите паука 'pep' в командной строке: </n> <b>scrapy crawl pep</b>
 
 
 
