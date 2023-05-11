@@ -11,7 +11,7 @@
 Python, Scrapy
 
 ## Как запустить:
-1. Склонируйте репозитоорий
+1. Склонируйте репозитоорий <br/> 
 git@github.com:webbzet/scrapy_parser_pep.git
 3. Создайте и активируйте виртуальное окружение:
 python -m venv venv
