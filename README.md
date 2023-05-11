@@ -12,13 +12,13 @@ Python, Scrapy
 
 ## Как запустить:
 1. Склонируйте репозитоорий <br/> 
-git@github.com:webbzet/scrapy_parser_pep.git
-3. Создайте и активируйте виртуальное окружение:
-python -m venv venv
-source venv/Scripts/activate
-4. Обновите pip и установите зависимости: 
-python -m pip install --upgrade pip
-pip install -r requirements.txt
+<b>git@github.com:webbzet/scrapy_parser_pep.git</b>
+3. Создайте и активируйте виртуальное окружение: <br/> 
+<b>python -m venv venv <br/>
+source venv/Scripts/activate</b>
+4. Обновите pip и установите зависимости: </br>
+<b>python -m pip install --upgrade pip</br>
+pip install -r requirements.txt</b>
 
 4. Запустите паука 'pep' в командной строке: <br> <b>scrapy crawl pep</b>
 
